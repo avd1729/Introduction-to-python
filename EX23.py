@@ -1,0 +1,13 @@
+#program to display the multiplication table of given number
+n=int(input("Enter the number:"))
+print("MULTIPLICATION TABLE OF",n,":")
+print("1 x",int(n),"=",1*n)
+print("2 x",int(n),"=",2*n)
+print("3 x",int(n),"=",3*n)
+print("4 x",int(n),"=",4*n)
+print("5 x",int(n),"=",5*n)
+print("6 x",int(n),"=",6*n)
+print("7 x",int(n),"=",7*n)
+print("8 x",int(n),"=",8*n)
+print("9 x",int(n),"=",9*n)
+print("10 x",int(n),"=",10*n)
